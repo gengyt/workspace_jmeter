@@ -1,0 +1,2 @@
+# JMeter generated Cookie file
+	TRUE		FALSE	0	cook	d3g1OTUwMDczMDU2Zjk4MjhiOjU0NzBCRjk0QzBBODAyQUYyMjRDMzI0QjI0MjMzNzNC:dbab6f2e30c37f0507fd975d67a7542b
