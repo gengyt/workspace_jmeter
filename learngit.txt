@@ -2,3 +2,5 @@ hello git
 hello vim
 $ 移动至行尾
 0 移动至行首
+G 移动至文章末尾
+gg 移动至文章开头
